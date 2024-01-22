@@ -11,4 +11,4 @@ Modified `LunarLander-v3` environment to have different wind speeds and directio
 
 ### Installation
 
-`pip install -r requiruments.txt`
+`pip install -r requirements.txt`
