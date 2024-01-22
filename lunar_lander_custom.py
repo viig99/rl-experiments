@@ -874,7 +874,7 @@ if __name__ == "__main__":
 
     register(
         id="LunarLander-v3",
-        entry_point="lunar_lander_other:LunarLander",
+        entry_point="lunar_lander_custom:LunarLander",
         max_episode_steps=1000,
         reward_threshold=200,
     )
